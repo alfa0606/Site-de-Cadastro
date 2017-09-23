@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cadastro de Alunos</title>
+    <title>Inserir Rendimentos</title>
 </head>
 <body>
     
